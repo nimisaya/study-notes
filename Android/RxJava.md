@@ -1,6 +1,6 @@
 # RxJava
 
-Reactive Extensions in Java (RxJava) is a library that enables Functional Reactive Programming. Combination of functional and reactive techniques used for event-driven programming. 
+Reactive Extensions in Java (RxJava) is a library that enables Functional Reactive Programming and used for event-driven programming. 
 
 In event-driven programming values are changed over time and the consumer reacts to the data as it comes in.
 
