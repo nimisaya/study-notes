@@ -40,7 +40,7 @@ Sequence of events that happen over time
 
 ## 👋  Observable (the watched)
 
-Observable is a data stream, does work and then emits items that are observed by the Observers. 
+Observable is a event/data stream, does work and then emits items that are observed by the Observers. 
 
 Observables can be non-blocking (asynchronous) and blocking (non-synchronous).
 
