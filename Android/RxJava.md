@@ -135,7 +135,7 @@ override fun onCleared() {
 
 ## Dependencies for Android
 
-You want to ensure you have `RxJava` and `RxAndroid` dependencies. RxAndroid has Android specific components and RxJava is updated more frequently (so you'll have the most up-to-date components).
+You want to ensure you have `RxJava` and `RxAndroid` dependencies. RxAndroid has Android specific components and RxJava is updated more frequently.
 
 ## Create an observable
 
