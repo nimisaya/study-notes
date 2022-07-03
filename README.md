@@ -6,7 +6,7 @@ Interested in learning a variety of programming topics? Keen on mobile app devel
 
 ## Link
 
-No link as of yet. For not just go to the folder of the topic of interest and click on the relevant document e.g. Android > RxJava.md. I might one day make it a mkdocs site or something but since it is just meant to be unpolished notes I probably won't.
+No link as of yet. For now just go to the folder of the topic you are interested in and click on the relevant document e.g. Android > RxJava.md. I might one day make it a mkdocs site or something but since it is just meant to be unpolished notes I probably won't.
 
 ## Tech
 
