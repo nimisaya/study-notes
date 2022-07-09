@@ -4,9 +4,11 @@
 
 - When the data that informs a UI state changes the UI state is changed and recomposition occurs. 
 
+- Uni-directional data flow: State flows down and events flow up
+
 ## `mutableStateOf`
 - creates an observable `MutableState<T>`
-- mutable: so can be changed?
+- mutable: so can be changed
 
 ```kt
 interface MutableState<T> : State<T> {
@@ -34,7 +36,7 @@ Reasons to hoist the state:
 - Only one source of truth for the state (it's not duplicated)
 - State can be shared with multiple composables. You might have multiple composables that care if the door is closed or open
 - Caller containing can intercept and either ignore or modify events before changing the state and prompting recomposition of the composable. 
-- The state is decoupled from the composable, so it can be stored anywhere e.g. moved to the `ViewModel`
+- The state is decoupled from the composable, so it can be stored anywhere e.g. moved to the `ViewModel` (State Handler)
 
 
 
